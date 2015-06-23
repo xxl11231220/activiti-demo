@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Activiti demo"
+  id="myeclipse.1430977035637"
+  context-root="/kft-activiti-demo"
+  j2ee-spec="6.0"
+  archive="Activiti demo.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
